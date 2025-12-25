@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.info {
+  padding: 10px;
+  background: #6b4a2f;
+  color: white;
+  font-size: 14px;
+}
+
+#map {
+  width: 100%;
+  height: calc(100vh - 90px);
+}
+
+h3 {
+  margin: 5px 0;
+}
